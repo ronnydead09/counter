@@ -1,0 +1,2 @@
+# counter
+The counter has three buttons. Increase, decrease and reset. When increase is pressed, count goes up by 1. When decrease is pressed, count reduces by 1. When reset is pressed, the counter is reset to 0. If the count is less than 0, the color of the number will be in red. If the count is 0, the color of the number is black. When the count is greater than 0, the color of the number is green.
